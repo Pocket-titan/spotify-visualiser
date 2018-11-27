@@ -1,7 +1,7 @@
 import React, { Component } from 'react'
 import Player from './Player'
 
-const  Visualiser = ({ params: { access_token } }) => {
+const Visualiser = ({ params: { access_token } }) => {
   // The name Spotify will display for your player
   let player_name = "React Visualiser :D"
 
