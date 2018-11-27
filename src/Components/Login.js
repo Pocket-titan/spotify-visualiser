@@ -18,7 +18,7 @@ const stringify = () => {
     'user-read-playback-state',
   ]
   const options = {
-    client_id: 'INSERT YOUR OWN TOKEN HERE!!!! NOT SECRET BUT JUST CLIENT ID @JONAS DONT IGNORE THIS IT IS IMPORTANT',
+    client_id: '4771d709fdf74e6aa8b9c289e02f37b7',
     response_type: 'token',
     redirect_uri: 'http://localhost:3000/callback',
     state: generate_random_string(),
