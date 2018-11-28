@@ -4,7 +4,7 @@ React boilerplate for building a music visualiser with the Spotify Web/Playback 
 
 ## Usage
 
-1. Clone the repo
+1. Clone the repo && `npm install`
 2. Edit the Display component in `/Components/Visualiser.js` according to your preferred aesthetics
 3. `npm start`
 4. Click the `Login` button now showing on `localhost:3000`
